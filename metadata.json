@@ -1,0 +1,5 @@
+{
+  "name": "GenderCount",
+  "description": "A utility to count gender distribution (Nam/Nữ) from raw text lists instantly.",
+  "requestFramePermissions": []
+}
